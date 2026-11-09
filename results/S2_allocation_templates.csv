@@ -1,0 +1,7 @@
+Configuration,Explicit_descriptors,Example_text_sent_to_API
+ED0,LUMO / eV; E1p; P_VSA_MR_5; CATS3D_02_AP; Mor04m,"Chemical name: 3-Amino-1,2,4-triazole. Used as a corrosion inhibitor."
+ED1,E1p; P_VSA_MR_5; CATS3D_02_AP; Mor04m,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Used as a corrosion inhibitor."
+ED2,P_VSA_MR_5; CATS3D_02_AP; Mor04m,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Used as a corrosion inhibitor."
+ED3,CATS3D_02_AP; Mor04m,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Van der Waals surface descriptor P_VSA_MR_5: 27.181. Used as a corrosion inhibitor."
+ED4,Mor04m,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Van der Waals surface descriptor P_VSA_MR_5: 27.181. CATS3D descriptor: 2. Used as a corrosion inhibitor."
+ED5,,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Van der Waals surface descriptor P_VSA_MR_5: 27.181. CATS3D descriptor: 2. 3D-MoRSE descriptor: -1.052. Used as a corrosion inhibitor."

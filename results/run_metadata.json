@@ -1,0 +1,44 @@
+{
+  "python": "3.10.20",
+  "platform": "Linux-5.14.0-570.55.1.el9_6.x86_64-x86_64-with-glibc2.34",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
+    "xgboost": "3.2.0",
+    "shap": "0.49.1",
+    "rdkit": "2026.3.2",
+    "torch": "2.5.1+cu121"
+  },
+  "arguments": {
+    "validate": false,
+    "experiments": [
+      "all"
+    ],
+    "search": "full",
+    "models": null,
+    "jobs": 1,
+    "output": "/home/pengpeng/repre/github/results",
+    "allow_api": false,
+    "save_models": true
+  },
+  "dataset_sha256": "1494ffc14b3d53053e5ffdd1c19ebe4bc5cd7bec1a50b39bed274f3dae6477d3",
+  "started_utc": "2026-11-09T05:23:50.529277+00:00",
+  "experiments": {
+    "reference": "completed",
+    "benchmark": "completed",
+    "baseline": "completed",
+    "allocation": "completed",
+    "smiles": "completed",
+    "reductions": "completed",
+    "pca": "completed",
+    "templates": "completed",
+    "encoders": "completed",
+    "seeds": "completed",
+    "ablation": "completed",
+    "explain": "completed",
+    "proximity": "completed",
+    "gnn": "completed"
+  }
+}

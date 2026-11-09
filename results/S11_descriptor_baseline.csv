@@ -1,0 +1,2 @@
+Configuration,Model,Seed,CV_R2,R2,r,MAE_pp,RMSE_pp,Best_parameters,Structural_dim,Text_dim,Numerical_dim,Total_dim,Search_mode,Convergence_warning_count
+Five descriptors,MLP,42,0.4455842333,0.306654721,0.5688948857,63.88460751,75.67445987,"{""alpha"": 0.005, ""hidden_layer_sizes"": [64], ""learning_rate_init"": 0.001}",0,0,5,5,full,109

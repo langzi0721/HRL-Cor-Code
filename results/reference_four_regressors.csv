@@ -1,0 +1,5 @@
+Configuration,Model,Seed,CV_R2,R2,r,MAE_pp,RMSE_pp,Best_parameters,Structural_dim,Text_dim,Numerical_dim,Total_dim,Search_mode,Convergence_warning_count
+ED3 reference,RF,42,0.3788760669,0.4852949046,0.785932091,58.13958835,65.20092879,"{""max_depth"": 4, ""max_features"": ""log2"", ""min_samples_split"": 3, ""n_estimators"": 100}",12,37,2,51,full,0
+ED3 reference,XGB,42,0.3344225314,0.7418424012,0.8907487016,39.55238844,46.17607395,"{""colsample_bytree"": 0.6, ""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 250, ""reg_alpha"": 0.1, ""reg_lambda"": 3.0}",12,37,2,51,full,0
+ED3 reference,SVM,42,0.3717695905,0.4195073208,0.6736587358,60.17685322,69.24252907,"{""C"": 250.0, ""epsilon"": 0.05, ""gamma"": ""scale""}",12,37,2,51,full,0
+ED3 reference,MLP,42,0.4940312172,0.4971378287,0.7327584507,57.32759481,64.44645477,"{""alpha"": 0.005, ""hidden_layer_sizes"": [16], ""learning_rate_init"": 0.01}",12,37,2,51,full,36

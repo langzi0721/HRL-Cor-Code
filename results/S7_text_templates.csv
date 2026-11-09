@@ -1,0 +1,7 @@
+Template,Example_text_sent_to_API
+A,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Van der Waals surface descriptor P_VSA_MR_5: 27.181. Used as a corrosion inhibitor."
+B,"This document defines the structural and electronic profile of the organic corrosion inhibitor '3-Amino-1,2,4-triazole'. The LUMO energy is 0.078 eV, describing its electron-accepting characteristics. The directional accessibility descriptor E1p is 0.393, characterizing the directional accessibility of the molecular structure. The van der Waals surface descriptor P_VSA_MR_5 is 27.181. These descriptors characterize molecular features relevant to corrosion inhibition."
+C,"Target compound 3-Amino-1,2,4-triazole is evaluated as a corrosion inhibitor. The LUMO energy is 0.078 eV, providing information on electron-accepting characteristics. The directional accessibility descriptor E1p is 0.393, characterizing the directional accessibility of the molecular structure. The van der Waals surface descriptor P_VSA_MR_5 is 27.181. These descriptors characterize electronic and molecular structural features relevant to corrosion inhibition."
+D,LUMO=0.078 E1p=0.393 P_VSA_MR_5=27.181
+E,"Chemical name: 3-Amino-1,2,4-triazole. LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Van der Waals surface descriptor P_VSA_MR_5: 27.181. "
+F,LUMO energy: 0.078 eV. Directional accessibility descriptor E1p: 0.393. Van der Waals surface descriptor P_VSA_MR_5: 27.181. Used as a corrosion inhibitor.

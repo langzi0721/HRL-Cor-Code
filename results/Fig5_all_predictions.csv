@@ -1,0 +1,76 @@
+ID,Dataset,Molecule,True_IE,Predicted_IE
+1,DS60,"3-Amino-1,2,4-triazole",-157,-143.5073547
+2,DS60,3-Methylcatechol,-31,-33.81213379
+3,DS60,3-Methylsalicylic acid,75,38.48552322
+4,DS60,4-Aminosalicylic acid,57,43.94240189
+5,DS60,4-Hydroxybenzoic acid,-170,-136.2793579
+6,DS60,4-Methylsalicylic acid,39,52.42219162
+7,DS60,5-Aminosalicylic acid,66,67.22034454
+8,DS60,5-Methylsalicylic acid,55,50.93896103
+9,DS60,5-Nitrobarbituric acid,51,13.84080696
+10,DS60,"2,3-Pyridinedicarboxylic acid",32,40.90390015
+11,DS60,"2,5-Pyridinedicarboxylic acid",52,31.08379936
+12,DS60,"3,4-Dihydroxybenzoic acid",-270,-190.8466034
+13,DS60,"3,5-Dimethylpyrazole",-67,-70.76278687
+14,DS60,"3,5-Dinitrosalicylic acid",38,30.72673798
+15,DS60,"5,5-Dimethylhydantoin",-172,-136.8527222
+16,DS60,Ascorbic acid,6,-34.6818924
+17,DS60,Asparagine,-188,-157.5462341
+18,DS60,Aspartic acid,-54,-49.41206741
+19,DS60,Benzoic acid,34,21.68053436
+20,DS60,Benzotriazole,-108,-90.03020477
+21,DS60,Bicine,-111,-113.7656555
+22,DS60,Bipyridine,6,-16.67829704
+23,DS60,Bismuthiol,-17,-37.26715088
+24,DS60,Citric acid,-47,-18.03369904
+25,DS60,Cysteine,-104,-98.87284088
+26,DS60,Diethylenetriamine,-18,-40.04351807
+27,DS60,Diglycolic acid,60,31.50416756
+28,DS60,Formic acid,-5,-6.597933769
+29,DS60,Fumaric acid,17,36.1094017
+30,DS60,Gluconic acid,48,32.49962997
+31,DS60,Glutamic acid,-139,-117.3801346
+32,DS60,Glycerol,-13,-11.86449623
+33,DS60,Glycine,-215,-183.1449738
+34,DS60,Glycolic acid,59,23.28144073
+35,DS60,Kojic acid,45,25.95066071
+36,DS60,Lysine,-113,-121.0418243
+37,DS60,Maleic acid,12,1.694988132
+38,DS60,Maltol,9,-6.621267796
+39,DS60,Mandelic acid,-6,3.948034525
+40,DS60,Nicotinic acid,3,-0.7114078403
+41,DS60,Norleucine,-138,-144.7544708
+42,DS60,NTA (Nitrilotriacetic acid),-124,-109.6957321
+43,DS60,Oxalic acid,52,40.9725647
+44,DS60,Panthenol,-98,-89.31365967
+45,DS60,4-tert-Butyl-benzoic acid,31,22.42500877
+46,DS60,Para-toluic acid,-6,12.06547451
+47,DS60,Phenylalanine,-146,-131.7471924
+48,DS60,Phthalic acid,31,7.665581226
+49,DS60,Picolinic acid,54,44.72272873
+50,DS60,Piperazine,-145,-117.7499542
+51,DS60,Pyrazole,-38,-74.03404236
+52,DS60,Quinaldic acid,21,11.39128494
+53,DS60,Quinic acid,19,-7.007574558
+54,DS60,Salicylaldoxime,-89,-49.62413025
+55,DS60,Salicylhydroxamic acid,-17,-16.51082993
+56,DS60,Salicylic acid,37,42.56409073
+57,DS60,Tartaric acid,46,49.46779633
+58,DS60,Tris,-194,-177.3398438
+59,DS60,Uracil,-108,-106.8186722
+60,DS60,Urea,-93,-76.61268616
+61,DS15,"2-Amino-2-methyl-1,3-propanediol",-151.8008513,-98.24349213
+62,DS15,3-Hydroxyacetophenone,-33.1050366,-62.21434784
+63,DS15,4-Hydroxybenzyl alcohol,-135.20191,-143.1416626
+64,DS15,4-Pyridinecarboxylic acid,39.84782897,32.23086548
+65,DS15,"2,4-Dihydroxybenzoic acid",-141.3369829,-88.72566986
+66,DS15,"3,4-Pyridinedicarboxylic acid",76.04090049,35.46986771
+67,DS15,D-Glucose,-23.40081753,-37.05073547
+68,DS15,Itaconic acid,63.60435532,19.2719593
+69,DS15,L-Sorbose,46.16377075,21.09541893
+70,DS15,L-Threonine,-215.67651,-137.0131378
+71,DS15,Methylmalonic acid,34.86067066,5.353316307
+72,DS15,Pyridazine,15.93696116,-45.9120903
+73,DS15,Tartronic acid,-32.73124088,18.11628151
+74,DS15,Tricarballylic acid,50.22488033,37.88333511
+75,DS15,Vanillic acid,-119.4542583,-33.83367538

@@ -1,0 +1,25 @@
+Configuration,Model,Seed,CV_R2,R2,r,MAE_pp,RMSE_pp,Best_parameters,Structural_dim,Text_dim,Numerical_dim,Total_dim,Search_mode,Convergence_warning_count
+ED0,RF,42,0.4350355002,0.4384403239,0.7210448449,59.62720877,68.10398205,"{""max_depth"": 6, ""max_features"": ""sqrt"", ""min_samples_split"": 3, ""n_estimators"": 100}",12,36,5,53,full,0
+ED0,XGB,42,0.3763711615,0.5049742785,0.7140377557,51.78877764,63.94232612,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 250, ""reg_alpha"": 1.0, ""reg_lambda"": 1.0}",12,36,5,53,full,0
+ED0,SVM,42,0.4319155328,0.397533795,0.6454754362,60.36824352,70.54088333,"{""C"": 250.0, ""epsilon"": 0.2, ""gamma"": ""scale""}",12,36,5,53,full,0
+ED0,MLP,42,0.4061818563,0.4514194751,0.7053561546,61.07432325,67.31234821,"{""alpha"": 0.1, ""hidden_layer_sizes"": [32], ""learning_rate_init"": 0.001}",12,36,5,53,full,37
+ED1,RF,42,0.3688603191,0.5316148871,0.8097886758,53.96133843,62.19795273,"{""max_depth"": 8, ""max_features"": ""sqrt"", ""min_samples_split"": 4, ""n_estimators"": 50}",12,37,4,53,full,0
+ED1,XGB,42,0.3912698755,0.5078677988,0.7306538517,54.30866853,63.75517466,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 150, ""reg_alpha"": 0.1, ""reg_lambda"": 1.0}",12,37,4,53,full,0
+ED1,SVM,42,0.3931139355,0.4151290423,0.6612028297,59.84216084,69.50316421,"{""C"": 250.0, ""epsilon"": 0.2, ""gamma"": ""scale""}",12,37,4,53,full,0
+ED1,MLP,42,0.3876192464,0.4729806393,0.710133548,60.77097331,65.97628133,"{""alpha"": 0.1, ""hidden_layer_sizes"": [32], ""learning_rate_init"": 0.01}",12,37,4,53,full,36
+ED2,RF,42,0.3575341792,0.4737751474,0.7076051561,57.4819608,65.92653129,"{""max_depth"": 8, ""max_features"": ""sqrt"", ""min_samples_split"": 3, ""n_estimators"": 50}",12,37,3,52,full,0
+ED2,XGB,42,0.3281745487,0.6561514351,0.8285344978,45.43196435,53.29152601,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.05, ""max_depth"": 2, ""n_estimators"": 250, ""reg_alpha"": 0.5, ""reg_lambda"": 1.0}",12,37,3,52,full,0
+ED2,SVM,42,0.3864885296,0.4311761074,0.6777181491,59.69629674,68.54305598,"{""C"": 250.0, ""epsilon"": 0.05, ""gamma"": ""scale""}",12,37,3,52,full,0
+ED2,MLP,42,0.4610454622,0.4492610884,0.7084080222,61.77827814,67.44463823,"{""alpha"": 0.005, ""hidden_layer_sizes"": [64], ""learning_rate_init"": 0.005}",12,37,3,52,full,36
+ED3,RF,42,0.3788760669,0.4852949046,0.785932091,58.13958835,65.20092879,"{""max_depth"": 4, ""max_features"": ""log2"", ""min_samples_split"": 3, ""n_estimators"": 100}",12,37,2,51,full,0
+ED3,XGB,42,0.3344225314,0.7418424012,0.8907487016,39.55238844,46.17607395,"{""colsample_bytree"": 0.6, ""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 250, ""reg_alpha"": 0.1, ""reg_lambda"": 3.0}",12,37,2,51,full,0
+ED3,SVM,42,0.3717695905,0.4195073208,0.6736587358,60.17685322,69.24252907,"{""C"": 250.0, ""epsilon"": 0.05, ""gamma"": ""scale""}",12,37,2,51,full,0
+ED3,MLP,42,0.4940312172,0.4971378287,0.7327584507,57.32759481,64.44645477,"{""alpha"": 0.005, ""hidden_layer_sizes"": [16], ""learning_rate_init"": 0.01}",12,37,2,51,full,36
+ED4,RF,42,0.4016823895,0.4636232334,0.7120498394,58.03109167,66.55941978,"{""max_depth"": 8, ""max_features"": ""sqrt"", ""min_samples_split"": 2, ""n_estimators"": 50}",12,37,1,50,full,0
+ED4,XGB,42,0.2910110071,0.518930044,0.7272772778,55.3017597,63.03455133,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.05, ""max_depth"": 3, ""n_estimators"": 150, ""reg_alpha"": 0.1, ""reg_lambda"": 5.0}",12,37,1,50,full,0
+ED4,SVM,42,0.3670615343,0.373038784,0.6519801448,62.49043826,71.96061835,"{""C"": 250.0, ""epsilon"": 0.05, ""gamma"": ""scale""}",12,37,1,50,full,0
+ED4,MLP,42,0.40924178,0.4318325621,0.6999184126,60.89937028,68.5034933,"{""alpha"": 0.01, ""hidden_layer_sizes"": [16], ""learning_rate_init"": 0.01}",12,37,1,50,full,36
+ED5,RF,42,0.4204637461,0.4733624792,0.7444032898,57.64960577,65.95237619,"{""max_depth"": 4, ""max_features"": ""log2"", ""min_samples_split"": 2, ""n_estimators"": 50}",12,37,0,49,full,0
+ED5,XGB,42,0.2540623506,0.5453733046,0.7647791988,54.96300221,61.27763781,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 250, ""reg_alpha"": 1.0, ""reg_lambda"": 5.0}",12,37,0,49,full,0
+ED5,SVM,42,0.3844837975,0.4094959077,0.6693870347,60.03197642,69.83706904,"{""C"": 250.0, ""epsilon"": 0.05, ""gamma"": ""scale""}",12,37,0,49,full,0
+ED5,MLP,42,0.4497998069,0.4415250536,0.7044118988,60.20596789,67.91667188,"{""alpha"": 0.05, ""hidden_layer_sizes"": [32], ""learning_rate_init"": 0.01}",12,37,0,49,full,36

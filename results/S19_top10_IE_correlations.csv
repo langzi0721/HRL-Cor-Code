@@ -1,0 +1,11 @@
+Feature,Channel,Pearson_r_with_IE_DS60
+LLM-PC1,Text,-0.5535252854
+CATS3D_02_AP,Explicit descriptors,-0.5599594113
+Mor04m,Explicit descriptors,0.2903643905
+LLM-PC15,Text,-0.1493648361
+LLM-PC14,Text,-0.2668709916
+LLM-PC36,Text,0.1926390069
+Uni-Mol-L11,Structural,-0.4678894131
+Uni-Mol-L8,Structural,0.4167884528
+Uni-Mol-L6,Structural,-0.3816442518
+Uni-Mol-L7,Structural,0.3339500469

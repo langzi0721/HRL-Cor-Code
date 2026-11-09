@@ -1,0 +1,3 @@
+Configuration,Model,Seed,CV_R2,R2,r,MAE_pp,RMSE_pp,Best_parameters,Structural_dim,Text_dim,Numerical_dim,Total_dim,Search_mode,Convergence_warning_count
+With Uni-Mol,XGB,42,0.3230737036,0.6176970529,0.8152038816,46.33736033,56.19250223,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 250, ""reg_alpha"": 0.1, ""reg_lambda"": 5.0}",12,37,2,51,full,0
+Without Uni-Mol,RF,42,0.4440700578,0.4191716492,0.696418372,61.4304115,69.26254603,"{""max_depth"": 6, ""max_features"": 0.8, ""min_samples_split"": 3, ""n_estimators"": 150}",0,37,2,39,full,0

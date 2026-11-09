@@ -1,0 +1,5 @@
+Configuration,Model,Seed,CV_R2,R2,r,MAE_pp,RMSE_pp,Best_parameters,Structural_dim,Text_dim,Numerical_dim,Total_dim,Search_mode,Convergence_warning_count
+Five descriptors,RF,42,0.5632114726,0.3033868076,0.553978158,65.77029359,75.85258676,"{""max_depth"": 6, ""max_features"": ""sqrt"", ""min_samples_split"": 2, ""n_estimators"": 100}",0,0,5,5,full,0
+Five descriptors,XGB,42,0.5902818494,0.1261964871,0.4074809588,73.3670656,84.95353239,"{""colsample_bytree"": 0.4, ""learning_rate"": 0.05, ""max_depth"": 1, ""n_estimators"": 150, ""reg_alpha"": 0.1, ""reg_lambda"": 5.0}",0,0,5,5,full,0
+Five descriptors,SVM,42,0.3897890963,0.2223955102,0.5035939968,68.03144461,80.14084702,"{""C"": 50.0, ""epsilon"": 0.05, ""gamma"": ""scale""}",0,0,5,5,full,0
+Five descriptors,MLP,42,0.4455842333,0.306654721,0.5688948857,63.88460751,75.67445987,"{""alpha"": 0.005, ""hidden_layer_sizes"": [64], ""learning_rate_init"": 0.001}",0,0,5,5,full,109
