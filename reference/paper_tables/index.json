@@ -1,0 +1,127 @@
+[
+  {
+    "table": "S1",
+    "caption": "Table S1. Prediction performance of the ED0–ED5 descriptor-allocation configurations.",
+    "file": "reference/paper_tables/S1.csv"
+  },
+  {
+    "table": "S2",
+    "caption": "Table S2. Text templates and explicit numerical descriptors for the ED configurations.",
+    "file": "reference/paper_tables/S2.csv"
+  },
+  {
+    "table": "S3",
+    "caption": "Table S3. Prediction performance with SMILES in the text input, with and without Uni-Mol.",
+    "file": "reference/paper_tables/S3.csv"
+  },
+  {
+    "table": "S4",
+    "caption": "Table S4. Text templates with and without SMILES.",
+    "file": "reference/paper_tables/S4.csv"
+  },
+  {
+    "table": "S5",
+    "caption": "Table S5. Feature dimensions and prediction performance for different dimensionality-reduction configurations.",
+    "file": "reference/paper_tables/S5.csv"
+  },
+  {
+    "table": "S6",
+    "caption": "Table S6. Text dimensions and prediction performance at different PCA variance-retention thresholds.",
+    "file": "reference/paper_tables/S6.csv"
+  },
+  {
+    "table": "S7",
+    "caption": "Table S7. Text templates used to generate Qwen embeddings.",
+    "file": "reference/paper_tables/S7.csv"
+  },
+  {
+    "table": "S8",
+    "caption": "Table S8. Text dimensions and prediction performance for the six text templates.",
+    "file": "reference/paper_tables/S8.csv"
+  },
+  {
+    "table": "S9",
+    "caption": "Table S9. Feature dimensions and prediction performance using alternative text encoders or Morgan fingerprints.",
+    "file": "reference/paper_tables/S9.csv"
+  },
+  {
+    "table": "S10",
+    "caption": "Table S10. Hyperparameter grids for the four regression algorithms.",
+    "file": "reference/paper_tables/S10.csv"
+  },
+  {
+    "table": "S11",
+    "caption": "Table S11. Prediction performance of the descriptor baseline.",
+    "file": "reference/paper_tables/S11.csv"
+  },
+  {
+    "table": "S12",
+    "caption": "Table S12. Prediction performance across ten random seeds.",
+    "file": "reference/paper_tables/S12.csv"
+  },
+  {
+    "table": "S13",
+    "caption": "Table S13. Prediction performance of the reference XGBoost model.",
+    "file": "reference/paper_tables/S13.csv"
+  },
+  {
+    "table": "S14",
+    "caption": "Table S14. True IEs, predicted IEs, and absolute prediction errors.",
+    "file": "reference/paper_tables/S14.csv"
+  },
+  {
+    "table": "S15",
+    "caption": "Table S15. Prediction performance of individual and combined representation channels.",
+    "file": "reference/paper_tables/S15.csv"
+  },
+  {
+    "table": "S16",
+    "caption": "Table S16. Top ten features ranked by mean absolute SHAP value for DS15 predictions.",
+    "file": "reference/paper_tables/S16.csv"
+  },
+  {
+    "table": "S17",
+    "caption": "Table S17. Aggregated SHAP contribution by molecular representation channel.",
+    "file": "reference/paper_tables/S17.csv"
+  },
+  {
+    "table": "S18",
+    "caption": "Table S18. Pearson correlations between SHAP-selected text principal components and descriptors.",
+    "file": "reference/paper_tables/S18.csv"
+  },
+  {
+    "table": "S19",
+    "caption": "Table S19. Pearson correlations between the ten SHAP-selected features and true IE.",
+    "file": "reference/paper_tables/S19.csv"
+  },
+  {
+    "table": "S20",
+    "caption": "Table S20. Pearson correlations between SHAP-selected structural features and true IE.",
+    "file": "reference/paper_tables/S20.csv"
+  },
+  {
+    "table": "S21",
+    "caption": "Table S21. Nearest-neighbor distance reference ranges.",
+    "file": "reference/paper_tables/S21.csv"
+  },
+  {
+    "table": "S22",
+    "caption": "Table S22. Correlations with absolute prediction error.",
+    "file": "reference/paper_tables/S22.csv"
+  },
+  {
+    "table": "S23",
+    "caption": "Table S23. Molecular similarity, proximity, and prediction errors.",
+    "file": "reference/paper_tables/S23.csv"
+  },
+  {
+    "table": "Main_1",
+    "caption": "Table 1. Comparison of IE prediction performance across various strategies.",
+    "file": "reference/paper_tables/Main_1.csv"
+  },
+  {
+    "table": "Main_2",
+    "caption": "Table 2. Summary of molecular representation construction and feature dimensions.",
+    "file": "reference/paper_tables/Main_2.csv"
+  }
+]

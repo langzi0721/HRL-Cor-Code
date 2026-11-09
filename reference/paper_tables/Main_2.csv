@@ -1,0 +1,5 @@
+Representation,Original dimension,Reduction strategy,Retained dimension,Feature representation notation
+Structural representation,512,Lasso ,12,Uni-Mol-L1–Uni-Mol-L12
+Text representation,1024,PCA,37,LLM-PC1–LLM-PC37
+Explicit molecular descriptors,2,None,2,"CATS3D_02_AP, Mor04m"
+Heterogeneous representation,1538,Combination,51,All

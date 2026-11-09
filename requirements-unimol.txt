@@ -1,0 +1,3 @@
+# Install in a separate environment; 0.1.6 requires NumPy >=2.
+# Alternatively, use the author's existing working Uni-Mol environment.
+unimol-tools==0.1.6

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the original DS60/DS15 data publications."
+type: software
+title: "HRL-Cor-Code: Deciphering Heterogeneous Molecular Representations for Small-Data Prediction of Corrosion Inhibition Efficiency"
+version: 0.1.0
+authors:
+  - family-names: Liu
+    given-names: Junpeng
+  - family-names: Fu
+    given-names: Zhongheng
+  - family-names: Cao
+    given-names: Wenkai
+  - family-names: Zhang
+    given-names: Dawei
+  - family-names: Wang
+    given-names: Wei
+  - family-names: Li
+    given-names: Weihua

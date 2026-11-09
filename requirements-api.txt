@@ -1,0 +1,2 @@
+# OPTIONAL: only needed after explicitly enabling --allow-api.
+requests>=2.32,<3

@@ -1,0 +1,5 @@
+Structural,Reduction,Dim.,Text,Reduction,Dim.,Best model,R²,r
+Uni-Mol,Lasso,12,Qwen,PCA,37,XGB,0.7418,0.8907
+Uni-Mol,Lasso,12,BGE-M3,PCA,35,XGB,0.3264,0.6574
+Uni-Mol,Lasso,12,SciBERT,PCA,21,XGB,0.4958,0.7218
+RDKit(Morgan),Lasso,4,Qwen,PCA,37,XGB,0.5640,0.8191

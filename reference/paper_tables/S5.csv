@@ -1,0 +1,8 @@
+ID,Structural reduction,Dim.,Text reduction,Dim.,Total dim.,Best model,R²,r
+A,None,512,None,1024,1538,MLP,0.5045,0.7355
+B,None,512,PCA,37,551,MLP,0.5161,0.7393
+C,Lasso,12,None,1024,1038,SVM,0.3982,0.6552
+D,PCA,31,PCA,37,70,RF,0.5222,0.7509
+E,PCA,31,Lasso,31,64,XGB,0.5505,0.7910
+F,Lasso,12,PCA,37,51,XGB,0.7418,0.8907
+G,Lasso,12,Lasso,31,45,SVM,0.5422,0.7423

@@ -1,0 +1,83 @@
+Python: /home/pengpeng/miniconda3/envs/unimol/bin/python
+Project: /home/pengpeng/repre/github
+Existing structural cache is valid; no model download/inference needed.
+
+[reference] starting
+  DS15 R2=0.7418, r=0.8907; dimensions=(12, 37, 2)
+
+[benchmark] starting
+
+[baseline] starting
+  evaluating Five descriptors
+
+[allocation] starting
+  evaluating ED0
+  evaluating ED1
+  evaluating ED2
+  evaluating ED3
+  evaluating ED4
+  evaluating ED5
+
+[smiles] starting
+  evaluating With Uni-Mol
+  evaluating Without Uni-Mol
+
+[reductions] starting
+  evaluating A
+  evaluating B
+  evaluating C
+  evaluating D
+  evaluating E
+  evaluating F
+  evaluating G
+
+[pca] starting
+  evaluating 60
+  evaluating 65
+  evaluating 70
+  evaluating 75
+  evaluating 80
+  evaluating 85
+  evaluating 90
+  evaluating 95
+  evaluating 100
+
+[templates] starting
+  evaluating A
+  evaluating B
+  evaluating C
+  evaluating D
+  evaluating E
+  evaluating F
+
+[encoders] starting
+  evaluating Qwen
+  evaluating BGE-M3
+  evaluating SciBERT
+  evaluating Morgan-Qwen
+
+[seeds] starting
+  seed 37
+  seed 38
+  seed 39
+  seed 40
+  seed 41
+  seed 42
+  seed 43
+  seed 44
+  seed 45
+  seed 46
+
+[ablation] starting
+
+[explain] starting
+
+[proximity] starting
+
+[gnn] starting
+
+Results: /home/pengpeng/repre/github/results; failed experiments: []
+Exported S2/S4/S7/S10 templates/grids, without any API calls: /home/pengpeng/repre/github/results
+Report saved: /home/pengpeng/repre/github/results/RESULTS_TO_SEND.md
+Numerical tables and summary: results/RESULTS_TO_SEND.md
+If something failed, also send the last lines of the server log.

@@ -1,0 +1,8 @@
+Representation channels,Dim.,Model,R²,r
+Explicit descriptors only,2,XGB,0.3055,0.5547
+Structural only,12,XGB,0.5456,0.7513
+Text only,37,XGB,0.4865,0.7084
+Descriptors + structural,14,XGB,0.6021,0.8053
+Descriptors + text,39,XGB,0.5791,0.8511
+Structural + text,49,XGB,0.6355,0.8110
+All three channels,51,XGB,0.7418,0.8907

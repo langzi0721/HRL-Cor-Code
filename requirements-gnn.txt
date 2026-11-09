@@ -1,0 +1,4 @@
+# OPTIONAL: install in the core environment only to run the SI GNN benchmark.
+# Select the appropriate CPU/CUDA PyTorch wheel for your server.
+# Verified run used torch 2.5.1+cu121 on CUDA.
+torch==2.5.1

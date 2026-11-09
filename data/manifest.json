@@ -1,0 +1,156 @@
+{
+  "dataset_sha256": "1494ffc14b3d53053e5ffdd1c19ebe4bc5cd7bec1a50b39bed274f3dae6477d3",
+  "rows": 75,
+  "split": {
+    "DS60": [
+      0,
+      60
+    ],
+    "DS15": [
+      60,
+      75
+    ]
+  },
+  "embeddings": {
+    "qwen_ed0": {
+      "path": "data/embeddings/qwen_ed0.csv",
+      "sha256": "dcaf3e4e4c59006c9ebb4c9e9a9dfbb403e1191706ebd04513ece233987bef9c",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_PromptA_Emb0.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_ed1": {
+      "path": "data/embeddings/qwen_ed1.csv",
+      "sha256": "87dad980e4ff8638b5cbbb3a7d9204ce0d378bf4658f451a423220b837ea9dfc",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_PromptA_Emb1.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_ed2": {
+      "path": "data/embeddings/qwen_ed2.csv",
+      "sha256": "7de08d2f0962a6eea4bbe30529e77a3377a940bc7fae94d140847f0c85e6820e",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_PromptA_Emb2.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_ed3": {
+      "path": "data/embeddings/qwen_ed3.csv",
+      "sha256": "6b96f4e6ad88dc2c849424f1eb1ce0df7f0a85fe4a92cce9e074d478b6b0a67c",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_ed4": {
+      "path": "data/embeddings/qwen_ed4.csv",
+      "sha256": "ea724935122689d04f17243ee08194ea15e04ea91a7f62fb568495728f41d304",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_PromptA_Emb4.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_ed5": {
+      "path": "data/embeddings/qwen_ed5.csv",
+      "sha256": "902ae215456e7f53354f8bb411eca8e10079492958e4b529eabac0f0c52ce905",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_PromptA_Emb5.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_smiles": {
+      "path": "data/embeddings/qwen_smiles.csv",
+      "sha256": "58e3856f7c15c32cd1a5fde36f4ce442463c319a4df3895702f5314d91507508",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache_SI_prompt.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_prompt_B": {
+      "path": "data/embeddings/qwen_prompt_B.csv",
+      "sha256": "8ff6952c3d918fecb1760aefa302be8f07e9f9d8a29258bb5f340befeccdab2c",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache-promptB.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_prompt_C": {
+      "path": "data/embeddings/qwen_prompt_C.csv",
+      "sha256": "b267c812891426a1b8742ced0b74092444171ec32506568260eab8891a7bea34",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache-promptC.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_prompt_D": {
+      "path": "data/embeddings/qwen_prompt_D.csv",
+      "sha256": "1695ce351f0c13536ffe8503adf7802f05ed1dcdb9aea43dd9229a377352850d",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache-promptD.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_prompt_E": {
+      "path": "data/embeddings/qwen_prompt_E.csv",
+      "sha256": "cd50e2ee678a0d1cfc1c2f87181c9f915bb461be4ac79cd951e6eac3873017a7",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache-promptE.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "qwen_prompt_F": {
+      "path": "data/embeddings/qwen_prompt_F.csv",
+      "sha256": "c6d676b60e8ad7079b88237b010f0a5e19044292555d7689e63f0d124273810d",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "text_embeddings_cache-promptF.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "bge_m3": {
+      "path": "data/embeddings/bge_m3.csv",
+      "sha256": "cc606dd79e7c6a9fe847b7237bebffab602af6e2c65dadb4c0bf9cb1ba02c9d8",
+      "shape": [
+        75,
+        1024
+      ],
+      "original_filename": "bge_m3_PromptA_E1p_corrected_cache.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    },
+    "scibert": {
+      "path": "data/embeddings/scibert.csv",
+      "sha256": "3a58251933539a7b2e94bc1eaeab13c06a0f6306cdb4fc1abbdbef2871bfca16",
+      "shape": [
+        75,
+        768
+      ],
+      "original_filename": "scibert_PromptA_E1p_corrected_cache.csv",
+      "provenance": "Author-provided legacy CSV. Row order inherited from 5dec.csv; no original per-row IDs were stored."
+    }
+  }
+}

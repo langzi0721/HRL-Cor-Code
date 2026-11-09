@@ -1,0 +1,7 @@
+Config.,Text template,Explicit numerical descriptors
+ED0,Chemical name: [Chemical Name].Used as a corrosion inhibitor.,"LUMO, E1p, P_VSA_MR_5, CATS3D_02_AP, Mor04m"
+ED1,Chemical name: [Chemical Name].LUMO energy: [LUMO] eV.Used as a corrosion inhibitor.,"E1p, P_VSA_MR_5, CATS3D_02_AP, Mor04m"
+ED2,Chemical name: [Chemical Name].LUMO energy: [LUMO] eV.Directional accessibility descriptor E1p: [E1p].Used as a corrosion inhibitor.,"P_VSA_MR_5, CATS3D_02_AP, Mor04m"
+ED3,Chemical name: [Chemical Name].LUMO energy: [LUMO] eV.Directional accessibility descriptor E1p: [E1p].Van der Waals surface descriptor P_VSA_MR_5: [P_VSA_MR_5].Used as a corrosion inhibitor.,"CATS3D_02_AP, Mor04m"
+ED4,Chemical name: [Chemical Name].LUMO energy: [LUMO] eV.Directional accessibility descriptor E1p: [E1p].Van der Waals surface descriptor P_VSA_MR_5: [P_VSA_MR_5].CATS3D descriptor: [CATS3D_02_AP].Used as a corrosion inhibitor.,Mor04m
+ED5,Chemical name: [Chemical Name].LUMO energy: [LUMO] eV.Directional accessibility descriptor E1p: [E1p].Van der Waals surface descriptor P_VSA_MR_5: [P_VSA_MR_5].CATS3D descriptor: [CATS3D_02_AP].3D-MoRSE descriptor: [Mor04m].Used as a corrosion inhibitor.,None

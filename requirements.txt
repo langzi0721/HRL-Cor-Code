@@ -1,0 +1,11 @@
+# Core CPU reproduction from CSV caches (no Qwen API and no Uni-Mol inference).
+# Scientific package versions recorded in the verified server run (Python 3.10.20).
+# joblib was not recorded separately; this is not a complete environment lockfile.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+xgboost==3.2.0
+joblib>=1.3.2,<2
+rdkit==2026.3.2
+shap==0.49.1

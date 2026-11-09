@@ -1,0 +1,3 @@
+Config.,Text template,Explicit numerical descriptors
+ED3,Chemical name: [Chemical Name].LUMO energy: [LUMO] eV.Directional accessibility descriptor E1p: [E1p].Van der Waals surface descriptor P_VSA_MR_5: [P_VSA_MR_5].Used as a corrosion inhibitor.,"CATS3D_02_AP, Mor04m"
+With SMILES,Chemical name: [Chemical Name].SMILES: [SMILES].LUMO energy: [LUMO] eV.Directional accessibility descriptor E1p: [E1p].Van der Waals surface descriptor P_VSA_MR_5: [P_VSA_MR_5].Used as a corrosion inhibitor.,"CATS3D_02_AP, Mor04m"

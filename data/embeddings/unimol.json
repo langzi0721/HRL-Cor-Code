@@ -1,0 +1,19 @@
+{
+  "dataset_sha256": "1494ffc14b3d53053e5ffdd1c19ebe4bc5cd7bec1a50b39bed274f3dae6477d3",
+  "csv_sha256": "a60bae2998cceb6ac2321cc11f11093546354c2e1511635781fec1dbb3ec7847",
+  "shape": [
+    75,
+    512
+  ],
+  "original_dtype": "float32",
+  "unimol_tools_version": "0.1.5",
+  "constructor_arguments": {
+    "data_type": "molecule",
+    "remove_hs": false,
+    "model_name": "unimolv1",
+    "batch_size": 32,
+    "use_cuda": true
+  },
+  "seed": 42,
+  "source": "New Uni-Mol V1 extraction; compare rerun metrics with manuscript."
+}

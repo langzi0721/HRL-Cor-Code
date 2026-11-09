@@ -1,0 +1,76 @@
+molecule_id,dataset,row_index_0based,name
+1,DS60,0,"3-Amino-1,2,4-triazole"
+2,DS60,1,3-Methylcatechol
+3,DS60,2,3-Methylsalicylic acid
+4,DS60,3,4-Aminosalicylic acid
+5,DS60,4,4-Hydroxybenzoic acid
+6,DS60,5,4-Methylsalicylic acid
+7,DS60,6,5-Aminosalicylic acid
+8,DS60,7,5-Methylsalicylic acid
+9,DS60,8,5-Nitrobarbituric acid
+10,DS60,9,"2,3-Pyridinedicarboxylic acid"
+11,DS60,10,"2,5-Pyridinedicarboxylic acid"
+12,DS60,11,"3,4-Dihydroxybenzoic acid"
+13,DS60,12,"3,5-Dimethylpyrazole"
+14,DS60,13,"3,5-Dinitrosalicylic acid"
+15,DS60,14,"5,5-Dimethylhydantoin"
+16,DS60,15,Ascorbic acid
+17,DS60,16,Asparagine
+18,DS60,17,Aspartic acid
+19,DS60,18,Benzoic acid
+20,DS60,19,Benzotriazole
+21,DS60,20,Bicine
+22,DS60,21,Bipyridine
+23,DS60,22,Bismuthiol
+24,DS60,23,Citric acid
+25,DS60,24,Cysteine
+26,DS60,25,Diethylenetriamine
+27,DS60,26,Diglycolic acid
+28,DS60,27,Formic acid
+29,DS60,28,Fumaric acid
+30,DS60,29,Gluconic acid
+31,DS60,30,Glutamic acid
+32,DS60,31,Glycerol
+33,DS60,32,Glycine
+34,DS60,33,Glycolic acid
+35,DS60,34,Kojic acid
+36,DS60,35,Lysine
+37,DS60,36,Maleic acid
+38,DS60,37,Maltol
+39,DS60,38,Mandelic acid
+40,DS60,39,Nicotinic acid
+41,DS60,40,Norleucine
+42,DS60,41,NTA (Nitrilotriacetic acid)
+43,DS60,42,Oxalic acid
+44,DS60,43,Panthenol
+45,DS60,44,4-tert-Butyl-benzoic acid
+46,DS60,45,Para-toluic acid
+47,DS60,46,Phenylalanine
+48,DS60,47,Phthalic acid
+49,DS60,48,Picolinic acid
+50,DS60,49,Piperazine
+51,DS60,50,Pyrazole
+52,DS60,51,Quinaldic acid
+53,DS60,52,Quinic acid
+54,DS60,53,Salicylaldoxime
+55,DS60,54,Salicylhydroxamic acid
+56,DS60,55,Salicylic acid
+57,DS60,56,Tartaric acid
+58,DS60,57,Tris
+59,DS60,58,Uracil
+60,DS60,59,Urea
+61,DS15,60,"2-Amino-2-methyl-1,3-propanediol"
+62,DS15,61,3-Hydroxyacetophenone
+63,DS15,62,4-Hydroxybenzyl alcohol
+64,DS15,63,4-Pyridinecarboxylic acid
+65,DS15,64,"2,4-Dihydroxybenzoic acid"
+66,DS15,65,"3,4-Pyridinedicarboxylic acid"
+67,DS15,66,D-Glucose
+68,DS15,67,Itaconic acid
+69,DS15,68,L-Sorbose
+70,DS15,69,L-Threonine
+71,DS15,70,Methylmalonic acid
+72,DS15,71,Pyridazine
+73,DS15,72,Tartronic acid
+74,DS15,73,Tricarballylic acid
+75,DS15,74,Vanillic acid
